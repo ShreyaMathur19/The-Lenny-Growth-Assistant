@@ -1,0 +1,13 @@
+.env
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.log
+data/transcripts/*
+!data/transcripts/.gitkeep
+agent-service/.pi-agent/
